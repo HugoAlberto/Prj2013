@@ -30,3 +30,10 @@ Jour 4:
 Jour 5:
 - Mise en place d'un script PHP de supervision des serveurs, ajout de celui-ci dans la soirée.
 - Edit : Ajout du script lundi.
+
+2013/06/09
+Jour 6:
+- Création du site internet du collège/lycée de Saint-Joseph.
+  - Installation de Joomla.
+  - Utilisation du template de base et modification du thème à la main dans les css.
+  - Modification des modules dans l'index.php.
