@@ -75,3 +75,8 @@ Jour 11:
 2013/06/13
 Jour 12:
 - Finalisation du site, ajout d'images dans le slider et fin de rédaction du guide d'utilisation.
+- Problème de droit avec les utilisateurs toujours présent. Impossibilité de creer/modifier/suppimer un article.
+ - Migration et modification à la main des utilisateurs de la base de données. Résultat : Inchangé.
+ - Test d'ajout et de modification de droit sur les utilisateurs. Résultat : Inchangé.
+ - Suppréssion des droits sur un article, tout le monde peut le modifier. Résultat : Inchangé.
+- Création d'un nouveau Joomla pour tester les droits et migration de l'ancien petit à petit pour trouver l'erreur.
