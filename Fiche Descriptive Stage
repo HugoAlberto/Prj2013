@@ -80,3 +80,9 @@ Jour 12:
  - Test d'ajout et de modification de droit sur les utilisateurs. Résultat : Inchangé.
  - Suppréssion des droits sur un article, tout le monde peut le modifier. Résultat : Inchangé.
 - Création d'un nouveau Joomla pour tester les droits et migration de l'ancien petit à petit pour trouver l'erreur.
+
+2013/06/13
+Jour 13:
+- Erreur trouvé, et résolution de celle-ci à travers la reconstruction du Joomla.
+- Reconstruction terminé dans la matiné.
+- Réunion dans l'après-midi pour parler de la mise en place et du design du site internet.
