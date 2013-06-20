@@ -31,7 +31,7 @@ Jour 5:
 - Mise en place d'un script PHP de supervision des serveurs, ajout de celui-ci dans la soirée.
 - Edit : Ajout du script lundi.
 
-2013/06/09
+2013/06/10
 Jour 6:
 - Création du site internet du collège/lycée de Saint-Joseph.
   - Installation de Joomla.
@@ -39,18 +39,18 @@ Jour 6:
   - Modification des modules dans l'index.php.
   - Création des premiers articles en attendant les images du site d'origine.
   
-2013/06/10
+2013/06/11
 Jour 7:
 - Travail sur le nouveau site internet de St.Jo et finnalisation de la mise en place des articles.
 
-2013/06/11
+2013/06/12
 Jour 8:
 - Reconstruction du thème, et modification du css pour qu'il s'accorde à l'ancien site, tout en ajoutant 
 un coté neuf et responsif.
 - Derniers test avant verification.
 - Test des bornes wifi avec les iPad pour voir si elles courvrent tout le réseau.
 
-2013/06/12
+2013/06/13
 Jour 9:
 - Travail sur le site joomla du collège/lycée.
 - Tour dans les salles de cours pour verifier le matériel que les élèves doivent rendre pour la fin d'année.
@@ -60,19 +60,19 @@ et résolution du problème encontré.
 - 2ème contact avec le service support d'Apple qui m'a proposer de contacter un revendeur pour l'achat des iPad.
 Une armoire pour mettre à niveau 30 iPad à la fois est aussi envisagé.
 
-2013/06/13
+2013/06/14
 Jour 10:
 - Travail sur le site du collège/lycée.
 - Préparation pour la création d'un csv de tout les iPad comportant leur nom, capacité restante et adresse MAC.
 - Modifications mineurs sur le site comme le logo, et ajout de lien pratiques comme la webradio.
 
-2013/06/13
+2013/06/17
 Jour 11:
 - Derniers réglages du site.
 - Ajout d'utilisateurs et des droits qui leur faut.
 - Réalisation d'un tutoriel pour les utilisateurs du site sur l'ajout, modifications d'articles, etc..
 
-2013/06/13
+2013/06/18
 Jour 12:
 - Finalisation du site, ajout d'images dans le slider et fin de rédaction du guide d'utilisation.
 - Problème de droit avec les utilisateurs toujours présent. Impossibilité de creer/modifier/suppimer un article.
@@ -81,10 +81,17 @@ Jour 12:
  - Suppréssion des droits sur un article, tout le monde peut le modifier. Résultat : Inchangé.
 - Création d'un nouveau Joomla pour tester les droits et migration de l'ancien petit à petit pour trouver l'erreur.
 
-2013/06/13
+2013/06/19
 Jour 13:
 - Erreur trouvé, et résolution de celle-ci à travers la reconstruction du Joomla.
 - Reconstruction terminé dans la matiné.
 - Réunion dans l'après-midi pour parler de la mise en place et du design du site internet.
 - Site internet OK, besoin d'ajout d'une image dans la section sport.
 - Préparation de la migration du site internet.
+
+2013/06/20
+Jour 14:
+- Finalisation du tutoriel sur joomla pour les utilisateurs et pour les administrateurs.
+- Ajout d'un favicon.
+
+
