@@ -97,4 +97,10 @@ Jour 14:
 - Migration de la base de données sur un nouveau serveur réussite.
 - Rédaction d'un cahier des charges et mise en place d'un diagramme de gantt.
 
+2013/06/24
+Jour 16:
+- Création d'un script PHP qui en fonction du nom, prénom et mail de l'élève dans un fichier xlsx
+envoi par mail le bulletin de ce même élève.
+- Difficulté supplémentaire, il existe un pdf pour le père et un pdf pour la mère qu'il faut envoyer
+à des adresses différentes.
 
